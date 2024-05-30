@@ -1,0 +1,449 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:#F1948A  ;
+}
+
+/* header */
+
+header{
+    width: 100%;
+}
+div.cabecera {
+	background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEF7Q0yg9X5FDouc2xhw7dVRGATAnvCXK9zYIy7MpBheBKp_DMP_TfMm6US_PFXAs1srdrdbA-bNeeYUqEt-ktpC9tS7OkFteQTDVOLdeXAMsRMxQgMzzfBGhDpK0qxRSoLIkXZRaNKdY/w1200-h630-p-k-no-nu/ramon-sanchez-pizjuan.jpg");
+	/*background-image:("https://m.media-amazon.com/images/I/91Z9vNq069L._AC_SX425_.jpg");*/
+	background-size:cover;
+	background-position:center ;
+	text-align: center;
+	padding: 20px;
+	height:300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.cabecera h1{
+	font-size: 100px;
+	color: white;
+	background: red;
+	transition: font-size 1s ease-in;
+}
+div.cabecera h1:hover{
+	font-size: 150px;
+}
+div.cabeceraClub {
+	background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEF7Q0yg9X5FDouc2xhw7dVRGATAnvCXK9zYIy7MpBheBKp_DMP_TfMm6US_PFXAs1srdrdbA-bNeeYUqEt-ktpC9tS7OkFteQTDVOLdeXAMsRMxQgMzzfBGhDpK0qxRSoLIkXZRaNKdY/w1200-h630-p-k-no-nu/ramon-sanchez-pizjuan.jpg");
+	/*background-image:("https://m.media-amazon.com/images/I/91Z9vNq069L._AC_SX425_.jpg");*/
+	background-size:cover;
+	background-position:center ;
+	text-align: center;
+	padding: 20px;
+	height:300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.cabeceraClub h1{
+	font-size: 100px;
+	color: white;
+	background: red;
+	transition: font-size 1s ease-in;
+	transition: background 1s ease-in;
+}
+div.cabeceraClub h1:hover{
+	font-size: 150px;
+}
+div.cabeceraCiudad {
+	background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEF7Q0yg9X5FDouc2xhw7dVRGATAnvCXK9zYIy7MpBheBKp_DMP_TfMm6US_PFXAs1srdrdbA-bNeeYUqEt-ktpC9tS7OkFteQTDVOLdeXAMsRMxQgMzzfBGhDpK0qxRSoLIkXZRaNKdY/w1200-h630-p-k-no-nu/ramon-sanchez-pizjuan.jpg");
+	/*background-image:("https://m.media-amazon.com/images/I/91Z9vNq069L._AC_SX425_.jpg");*/
+	background-size:cover;
+	background-position:center ;
+	text-align: center;
+	padding: 20px;
+	height:300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.cabeceraCiudad h1{
+	font-size: 100px;
+	color: white;
+	background: red;
+	transition: font-size 1s ease-in;
+	transition: background 1s ease-in;
+}
+div.cabeceraCiudad h1:hover{
+	font-size: 150px;
+}
+div.cabeceraEstadio {
+	background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEF7Q0yg9X5FDouc2xhw7dVRGATAnvCXK9zYIy7MpBheBKp_DMP_TfMm6US_PFXAs1srdrdbA-bNeeYUqEt-ktpC9tS7OkFteQTDVOLdeXAMsRMxQgMzzfBGhDpK0qxRSoLIkXZRaNKdY/w1200-h630-p-k-no-nu/ramon-sanchez-pizjuan.jpg");
+	/*background-image:("https://m.media-amazon.com/images/I/91Z9vNq069L._AC_SX425_.jpg");*/
+	background-size:cover;
+	background-position:center ;
+	text-align: center;
+	padding: 20px;
+	height:300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.cabeceraEstadio h1{
+	font-size: 100px;
+	color: white;
+	background: red;
+	transition: font-size 1s ease-in;
+	transition: background 1s ease-in;
+}
+div.cabeceraEstadio h1:hover{
+	font-size: 150px;
+}
+div.cabeceraEntrenador {
+	background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEF7Q0yg9X5FDouc2xhw7dVRGATAnvCXK9zYIy7MpBheBKp_DMP_TfMm6US_PFXAs1srdrdbA-bNeeYUqEt-ktpC9tS7OkFteQTDVOLdeXAMsRMxQgMzzfBGhDpK0qxRSoLIkXZRaNKdY/w1200-h630-p-k-no-nu/ramon-sanchez-pizjuan.jpg");
+	/*background-image:("https://m.media-amazon.com/images/I/91Z9vNq069L._AC_SX425_.jpg");*/
+	background-size:cover;
+	background-position:center ;
+	text-align: center;
+	padding: 20px;
+	height:300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.cabeceraEntrenador h1{
+	font-size: 100px;
+	color: white;
+	background: red;
+	transition: font-size 1s ease-in;
+	transition: background 1s ease-in;
+}
+div.cabeceraEntrenador h1:hover{
+	font-size: 150px;
+}
+div.cabeceraPalmares {
+	background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEF7Q0yg9X5FDouc2xhw7dVRGATAnvCXK9zYIy7MpBheBKp_DMP_TfMm6US_PFXAs1srdrdbA-bNeeYUqEt-ktpC9tS7OkFteQTDVOLdeXAMsRMxQgMzzfBGhDpK0qxRSoLIkXZRaNKdY/w1200-h630-p-k-no-nu/ramon-sanchez-pizjuan.jpg");
+	/*background-image:("https://m.media-amazon.com/images/I/91Z9vNq069L._AC_SX425_.jpg");*/
+	background-size:cover;
+	background-position:center ;
+	text-align: center;
+	padding: 20px;
+	height:300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.cabeceraPalmares h1{
+	font-size: 100px;
+	color: white;
+	background: red;
+	transition: font-size 1s ease-in;
+	transition: background 1s ease-in;
+}
+div.cabeceraPalmares h1:hover{
+	font-size: 150px;
+}
+.menu-horizontal{
+	list-style: none;
+	display:flex;
+	justify-content:space-around;
+    border: 2px solid red;
+}
+.menu-horizontal li {
+	display:inline-block;
+}
+.menu-horizontal > li > a{
+	display: inline-block;
+	padding: 15px 20px;
+	color:red;
+	text-decoration: none;
+}
+.menu-horizontal li  > a:hover{
+	background-color: red;
+    color: white;
+}
+.menu-vertical{
+	position: absolute;
+	display: none;
+	list-style: none;
+	width: 200px;
+    color: red;
+}
+.menu-horizontal li:hover .menu-vertical{
+	display: block;
+}
+.menu-vertical a:hover{
+	background-color: red;
+    color: white;
+}
+
+.menu-vertical li a{
+	display: block;
+	color: red;
+	text-decoration: none;
+	padding: 15px 15px 15px 20px;
+	border: 2px solid red ;
+}
+
+nav ul.menu-horizontal img{
+	width:5%;
+	height:45px;
+	margin-bottom:0px;
+}
+
+
+/* parte central */
+
+main{
+	width:70%;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+main h2{
+	width: 130%;
+	text-align: center;
+	font-size: 30px;
+}
+article{
+	border:2px solid red;
+	text-align:center;
+	width:50%;
+	padding:20px;
+    margin-top: 20px;
+	
+}
+div.contenedor{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* articulo1 (Noticias sobre el sevilla)*/
+
+article.principal{
+	width:80%;
+}
+/* articulo1 (Club)*/
+article.clubPrincipal{
+    width: 80%;
+}
+
+/*articulo 1 (Ciudad)*/
+article.Info h3{
+	width:100%;
+	font-size:30px;
+	
+}
+article.Info{
+	width:70%;
+	margin-left:  755px; 
+	display:flex;
+	margin-top:20px;
+	flex-wrap:wrap;
+    justify-content: center;
+}
+/*article 1 entrenador*/
+article.Quique{
+	width: 60%;
+}
+article.Quique img{
+	width: 50%;
+}
+
+/* articulo 1 palamarés*/
+article.Europa{
+	width: 50%;
+}
+article.Europa img{
+	width: 60%;
+}
+/* articulo2 (Sevilla Atletico)*/
+
+article.atletico{
+	width:80%;
+}
+
+article.atletico{
+	width:40%;
+	margin-left:  755px; 
+	display:flex;
+	margin-top:20px;
+	flex-wrap:wrap;
+}
+article.atletico h3{
+	width:100%;
+	font-size:30px;
+	
+}
+
+article img.atletico{
+	width: 80%;
+}
+
+
+/*articulo 2 (fundador club)*/
+article.fundador{
+	width:70%;
+	margin-left:  755px; 
+	display:flex;
+	margin-top:20px;
+	flex-wrap:wrap;
+}
+article.fundador h3{
+	width:100%;
+	font-size:30px;
+	
+}
+article.fundador p{
+	width:30%;
+	margin-right:60px;
+}
+article.fundador img{
+	width:50%;
+	margin-left:40px;
+}
+/*articulo 2 (Ciudad)*/
+article.caracteriza{
+    width: 70%;
+}
+article.caracteriza img{
+    width: 60%;
+}
+article.caracteriza h3{
+	width:100%;
+	font-size:30px;
+	
+}
+/* articulo 2 (Estadio)*/
+article.nombre img{
+    width: 60%;
+}
+
+/*articulo 3 (Estadio)*/
+article.abonados img{
+    width: 60%;
+}
+/* articulo 3 Entrenador*/
+article.palmaresEntrenador table{
+	padding: 20px;
+
+}
+article.palmaresEntrenador{
+	width: 80%;
+}
+article.palmaresEntrenador img{
+	width: 60%;
+}
+/*articulo 3 (Ciudad)*/
+
+article.monumentos img {
+    width: 60%;
+    height: 300px;
+}
+article.monumentos{
+	width:60%;
+	margin-left:  755px; 
+	margin-top: 50px;
+}
+article.monumentos h3{
+	width:100%;
+	font-size:30px;
+	
+}
+/*trofeos del sevilla FC*/
+div.Trofeos{
+	text-align: center;
+}
+div.Trofeos1{
+	display: flex;
+}
+div.Trofeos1 div{
+	width: 45%;
+}
+div.Trofeos1 div img{
+	width: 45%;
+}
+div.Trofeos:last-child img{
+	width: 45%;
+}
+/*ubicaion del estadio*/
+article.ubicacion{
+    left: 700px;
+}
+
+/* articulo 4 del entrenador*/
+article.Emery{
+	width: 65%;
+}
+article.Emery img{
+	width: 60%;
+}
+/* ASIDE */
+aside{
+	width:17%;
+	background:red;
+	color:white;
+	border-radius: 15px;
+	height: 400px;
+	text-align: center;
+	margin-left:200px ;
+	margin-top: 750px;
+	padding: 10px;
+}
+aside.derecha{
+    position: fixed;
+    left: 1200px;
+    bottom: 100px;
+}
+ul.aside li{
+    list-style: none;
+}
+ul.aside li a{
+	color: white;
+	text-align: center;
+    text-decoration: none;
+}
+
+
+/* footer */
+
+footer{
+    width:100%;
+	background:red;
+	color:white;
+	text-align:center;
+	height:300px;
+	margin-top: 100px;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+footer div{
+	width:30%;
+}
+footer div.contacto1{
+	display: flex;
+	margin-left: 20px;
+	align-content: center;
+}
+
+footer div.redesSociales1{
+	display:flex;
+	justify-content:center;
+	width:100%;
+}
+
+div.redesSociales1 img{
+	width:80px;
+	margin:10px;
+}
+
+div.redesSociales1 a.facebook:hover{
+	transform: scale(1.5) rotate(45deg);
+}
+div.redesSociales1 a.twitter:hover{
+	transform: scale(1.5) rotate(45deg);
+}
+div.redesSociales1 a.instagram:hover{
+	transform: scale(1.5) rotate(45deg);
+}
